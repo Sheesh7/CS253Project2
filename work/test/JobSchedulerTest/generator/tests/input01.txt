@@ -1,0 +1,36 @@
+20 5 10
+TGMCF4S9	Yuichi Dukes    ydukes@purdue.edu	35
+512WALGO	Ashols Grams	agrams@purdue.edu	60
+MGDFS1GF	Brinn Mortensen	bmortens@purdue.edu	14
+XSL8VLWP	Seok Masuk	smasuk@purdue.edu	0
+JUTT0ZSI	Rehan Al-Shehabi	ralsheha@purdue.edu	64
+S5FFKOQD	Chryste Zunda	czunda@purdue.edu	10
+E6V0KGFN	Aldemir Qamunga	aqamunga@purdue.edu	87
+RMTWI5MY	Reginaldo Shannos	rshannos@purdue.edu	47
+IBQZS7B5	Jan-Eric Pichler	jpichler@purdue.edu	70
+LRGDG548	Georgic Djerf	gdjerf@purdue.edu	32
+OPBMWGKT	Laure Wesh	lwesh@purdue.edu	99
+ST47NQLH	Pierre-Yvon Kintra	pkintra@purdue.edu	100
+OG3BRN8V	Lucimara Ulloa	lulloa@purdue.edu	84
+0MV9UUIA	Lorns Saint-Genies	lsaintge@purdue.edu	95
+SQUV5IAY	Baldo Aboudy	baboudy@purdue.edu	67
+9K94MLZF	Lestrod Wedding	lwedding@purdue.edu	90
+325TV1PX	Kauiza Ticchi	kticchi@purdue.edu	14
+4FH7XZ58	Edmar Laguado	elaguado@purdue.edu	16
+LRFHX417	Ulugbek Howard-Vyse	uhowardv@purdue.edu	90
+CBGSE8CE	Forrest Kaliyeva	fkaliyev@purdue.edu	40
+lethargic-graffiti	4
+alias-unspoken	2
+disown-dreaded	2
+uneasily-divisive	2
+manifesto-rummage	2
+1	retype-speculate-opacity	CBGSE8CE	1735689600	31800
+2	ribcage-wannabe-thursday	0MV9UUIA	1735689600	1800
+3	grievous-oaf-stowaway	ST47NQLH	1735689600	4800
+4	wriggle-unwieldy-explore	LRGDG548	1735689600	10800
+5	headphone-delegate-opal	JUTT0ZSI	1735689600	11400
+6	whiff-verbalize-confused	OG3BRN8V	1735689601	9000
+7	blame-parted-kindle	OG3BRN8V	1735689601	22800
+8	treachery-cornea-shadow	JUTT0ZSI	1735689601	2400
+9	substance-spring-radiated	IBQZS7B5	1735689602	1200
+10	dynasty-pork-applied	SQUV5IAY	1735689602	600

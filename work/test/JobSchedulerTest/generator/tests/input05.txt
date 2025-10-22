@@ -1,0 +1,426 @@
+180 45 200
+4V62D2TL	Bozhil Retchakan	bretchak@purdue.edu	47
+FIUNH5PB	Ilidio Downie	idownie@purdue.edu	16
+I0E8N4M9	Abdelhadi Vnukova	avnukova@purdue.edu	33
+VCN09KWY	Jannet Koletis	jkoletis@purdue.edu	17
+YQUP1L6A	Miriam Sibille	msibille@purdue.edu	6
+ZU25J5YL	Gabe Orfidan	gorfidan@purdue.edu	33
+2DAG0Z5G	Mark Strydom	mstrydom@purdue.edu	41
+7QZK8B7P	Daciano Bergius	dbergius@purdue.edu	3
+7898SPHT	Manpreet Purvis	mpurvis@purdue.edu	58
+IBY5LAO0	Dialma Lidster	dlidster@purdue.edu	86
+DMFE691M	Rohanee Teodosiu	rteodosi@purdue.edu	58
+SVFK2D8K	Vivian Allalou	vallalou@purdue.edu	3
+VH6NTC1B	Salma Agrimis	sagrimis@purdue.edu	50
+2KX1F755	Somboon Tonar	stonar@purdue.edu	9
+PJDM52GR	Haldun Raaitis	hraaitis@purdue.edu	35
+72DA8ONJ	Jahangir Langl	jlangl@purdue.edu	20
+RNLC70G9	Epp Labrecque	elabrecq@purdue.edu	25
+3GBJLBRB	Ichiro Wais	iwais@purdue.edu	7
+OSKNDABY	Gaizka Franzmann	gfranzma@purdue.edu	14
+PXCWG4CX	Silvo Mingxia	smingxia@purdue.edu	15
+UJM48P39	Yasha Lykin	ylykin@purdue.edu	78
+EHMHZ5NL	Jalal Simpson-Alter	jsimpson@purdue.edu	26
+LXCC65CY	Ratapong Christopher	rchristo@purdue.edu	5
+8YAXHC90	Kinjiro Lesov	klesov@purdue.edu	52
+3LVFY89P	Ordan Pignolo	opignolo@purdue.edu	1
+2Q6ZIEQH	tpnka Novo	tnovo@purdue.edu	79
+RUFNFZV5	Madge Ribot	mribot@purdue.edu	42
+OHRLB8DJ	Christilot Harling	charling@purdue.edu	53
+D5ZZCTMK	Tdeviin Castaon	tcastaon@purdue.edu	99
+I6YCSVNR	Siphiwe Anas	sanas@purdue.edu	48
+TV0X9480	Battista Lofstad	blofstad@purdue.edu	1
+HDDLF1O3	Raymundo Bourry	rbourry@purdue.edu	26
+0T341347	Solomon Grumiaux	sgrumiau@purdue.edu	95
+A1FJQIJI	Daneja Yeong-Jun	dyeongju@purdue.edu	41
+BXO156ZI	Ivie Seon-Gi	iseongi@purdue.edu	24
+QXKWFRVU	Terepai Escudie	tescudie@purdue.edu	69
+4XQBX8ZW	Violet Gker	vgker@purdue.edu	26
+BZLWXD0M	Amilcar Nakamichi	anakamic@purdue.edu	88
+SCKBK3AS	Mayles Senyue	msenyue@purdue.edu	63
+UVUAL330	Darcel Dubosquelle-Jullien	ddubosqu@purdue.edu	70
+DP2KX15F	Momchil Fagot	mfagot@purdue.edu	86
+43UA201X	Miami Fazil	mfazil@purdue.edu	76
+OAO076MN	Nizom Kas	nkas@purdue.edu	22
+BFKIPHHG	Reem Carnera	rcarnera@purdue.edu	100
+YBUC6VWQ	Boban Pinaud	bpinaud@purdue.edu	13
+A4NEND5B	Horia Carrasquilla	hcarrasq@purdue.edu	13
+B1HQ7TBM	Klement-Mile Moragiemos	kmoragie@purdue.edu	66
+9QV0YF6R	Kaye Chantrel	kchantre@purdue.edu	32
+2QKDC3N3	Dimitriana Kojoroski	dkojoros@purdue.edu	83
+ZUTJWL2L	Nyamaagiin Peka	npeka@purdue.edu	100
+BPEIFZSS	Tycho Hamzah	thamzah@purdue.edu	42
+RQIY9M21	Kvtoslava Sobek	ksobek@purdue.edu	15
+CNW3SGFD	Sarapong Rozte	srozte@purdue.edu	33
+S3MJCWS4	Julese Grimnes	jgrimnes@purdue.edu	34
+55HQLWF2	Alfons Bariq	abariq@purdue.edu	58
+A07JFT05	Joseph-Berlioz Swoopes	jswoopes@purdue.edu	49
+JR4TF2QG	Sofine Hait	shait@purdue.edu	52
+SXDZT9GO	Talitiga Puccetti	tpuccett@purdue.edu	25
+X6M1C90O	Lucyna Ostroshapkin	lostrosh@purdue.edu	87
+O2MYFV6X	Gurcharan Khvostov	gkhvosto@purdue.edu	59
+WFS3WHFM	Badri Ronen	bronen@purdue.edu	6
+8QAFT06X	Falah Stranovsk	fstranov@purdue.edu	18
+SCZV1KM6	Raimundas Sin	rsin@purdue.edu	60
+SHPO9WHI	Soner Kaimr	skaimr@purdue.edu	67
+EQK6Q6KT	Pierre-Andr Diaz	pdiaz@purdue.edu	80
+OYLQMHSF	Jesika Shami	jshami@purdue.edu	9
+EZLCAZP3	Ann-Christine Dally	adally@purdue.edu	40
+18FZDI9T	Cezary Johnson	cjohnson@purdue.edu	11
+W33JAYWF	Demetrij Roslan	droslan@purdue.edu	3
+GR8SG1ZY	lisabeth Mukasakindi	lmukasak@purdue.edu	22
+BRVD2W05	Pissi Kapranov	pkaprano@purdue.edu	18
+UF2F1AO1	Puccio Vitsek	pvitsek@purdue.edu	9
+75Z7VF4Z	Anna-Stina Wamuth	awamuth@purdue.edu	3
+KGQJR4VV	Cassandre El-Kalyoubi	celkalyo@purdue.edu	38
+UL7CCCZJ	Lefter Bschking	lbschkin@purdue.edu	9
+M3COS3LU	Evans Pilipova	epilipov@purdue.edu	70
+7QFQPBPU	Fergus Chih-Chia	fchihchi@purdue.edu	22
+H9MSDHI9	Luluk Boyce	lboyce@purdue.edu	67
+2Y4HARB5	Barthlemy Perova	bperova@purdue.edu	25
+6907CIMD	Emlia Ardizzoni	eardizzo@purdue.edu	69
+C9XIVE21	Kiyoko Charest	kcharest@purdue.edu	0
+SXE8BOKX	Seraphin Groy	sgroy@purdue.edu	85
+0EJYUKA9	Stanimir Pepin	spepin@purdue.edu	63
+R7W1AINJ	Elard Seunig	eseunig@purdue.edu	36
+WOLOXMEB	Stanislovas Rue	srue@purdue.edu	30
+VZ0A5LDI	Tateki Lisovskaya	tlisovsk@purdue.edu	36
+XFNSRF8E	Todorka Oleniak	toleniak@purdue.edu	6
+CMPJ72MV	Jorinde Longchamp	jlongcha@purdue.edu	29
+DANCIP27	Gbor ilea-Moldovan	gileamol@purdue.edu	7
+QCW4Y3FQ	Yancarlos Sarls	ysarls@purdue.edu	21
+G6SVYQ31	Anthresh Hartnett	ahartnet@purdue.edu	82
+CU9BN5YK	Lynda Cigana	lcigana@purdue.edu	34
+QCDPTX71	Eri Battelli	ebattell@purdue.edu	71
+9BU8SISQ	Ktia Tall	ktall@purdue.edu	100
+2X6263RB	Tyler Askehave	taskehav@purdue.edu	16
+J5G4IAES	Aristidis Scarlat	ascarlat@purdue.edu	75
+8UPQJTN5	Raymund Freyberg	rfreyber@purdue.edu	30
+VLVUYGO5	Zahid Zahourek	zzahoure@purdue.edu	78
+HFWKSRSC	Christiana Tozer	ctozer@purdue.edu	81
+8S9R5RSW	Camila Zwazl	czwazl@purdue.edu	42
+VDINV7Z9	Philaylack Lehtola	plehtola@purdue.edu	11
+IW45A9FJ	Lazr Jasch	ljasch@purdue.edu	47
+69ZDUPIG	Ahcen Biktasheva	abiktash@purdue.edu	79
+9CCWQ6YW	Garcia Della-Rossa	gdellaro@purdue.edu	98
+EHVDTZ1Z	Dylan Veen	dveen@purdue.edu	19
+N4FH2TKZ	Egl Hlushchenko	ehlushch@purdue.edu	69
+45ZYVQFU	Miloud hlund	mhlund@purdue.edu	33
+Q5YY92DB	Lankantien Gluth	lgluth@purdue.edu	45
+RI1E8M3S	Kelis Mottley	kmottley@purdue.edu	55
+KR1ON17U	Muenge Al-Aameri	malaamer@purdue.edu	73
+BEWGZVJ5	Halyna Eun-Chul	heunchul@purdue.edu	57
+MT7YY4EX	Guard Fischer-Khler	gfischer@purdue.edu	14
+ODXNZ626	Aluan Roslund	aroslund@purdue.edu	72
+USAOGJ6C	Yessy Javanainen	yjavanai@purdue.edu	54
+QYBNPW9E	Romell Uhrig	ruhrig@purdue.edu	29
+Q8JPO76V	Ansten Wan	awan@purdue.edu	19
+M6SSB8MU	Berkeley Arunovi	barunovi@purdue.edu	76
+0XGCCWPM	Aurore Janney	ajanney@purdue.edu	77
+YK9KXGBD	Valentna Pirn	vpirn@purdue.edu	95
+K5AZ2QYM	Senpan Fonseca	sfonseca@purdue.edu	98
+AMFS7F06	Kumela Adouna	kadouna@purdue.edu	63
+WXKCW553	Saed Radanchev	sradanch@purdue.edu	95
+V2UOMRDF	Atalibio Ndereba	andereba@purdue.edu	34
+YE9DCKSH	Luminita Michl	lmichl@purdue.edu	73
+RW3059GK	Arje Grazia	agrazia@purdue.edu	30
+2KKMSQ9L	Zepherinus Zerquera	zzerquer@purdue.edu	54
+SKJWL2RH	erban Kazanecka-Grecka	ekazanec@purdue.edu	65
+ZLL4QHDH	Lazo Urkal	lurkal@purdue.edu	99
+0P54I4KU	Danzandarjaagiin Svahnstrm	dsvahnst@purdue.edu	0
+8U70VKHY	Yolande Darcey	ydarcey@purdue.edu	49
+CNRW6XB0	Dubourdieu Zander	dzander@purdue.edu	36
+U9384VZY	Beatriz Bettega	bbettega@purdue.edu	64
+K0YWPN97	Sakhidad Staa	sstaa@purdue.edu	50
+98QMTP6J	Belmiro Ross-Edwards	brossedw@purdue.edu	1
+LD55GD78	Sylvester Lynch	slynch@purdue.edu	4
+3NQ43JJ9	Tavakalo Shao-Chieh	tshaochi@purdue.edu	3
+FZ7VNHSF	Glcan Abdullayev	gabdulla@purdue.edu	60
+W14PMGTZ	Simbara Graul	sgraul@purdue.edu	98
+3VGE1FBF	Folade Schrepfer	fschrepf@purdue.edu	75
+V1RXBYKO	Brynjar Crampes	bcrampes@purdue.edu	86
+Z1Z3I34T	Shota Seibt	sseibt@purdue.edu	11
+Z535E7KM	Saturday Thode	sthode@purdue.edu	39
+PRXF2FE9	Maya Mintl	mmintl@purdue.edu	71
+MNMD9E53	Anni Collon	acollon@purdue.edu	89
+QCS63K4D	Krijnis Kossen	kkossen@purdue.edu	14
+DQK7N400	Georgia-Anastasia Njoku	gnjoku@purdue.edu	83
+TDWIHLS9	Ismo Bundschuh	ibundsch@purdue.edu	19
+1L03GATT	Mitsushi Shih-Hsien	mshihhsi@purdue.edu	46
+FGXX47I7	Teneale Strobino	tstrobin@purdue.edu	44
+GCPW5S55	Torald Surralls	tsurrall@purdue.edu	46
+O9OJQUG4	Hadar Cullell	hcullell@purdue.edu	68
+CXK3J2PI	Lakha Chirtsova	lchirtso@purdue.edu	52
+HTAWGVAF	Toshiki Ryding	tryding@purdue.edu	80
+KL0M8HH8	Efioanwan Roko	eroko@purdue.edu	92
+DPLUALV4	Pertti Frieden	pfrieden@purdue.edu	48
+TETJFMS8	Faidon Yu-Yi	fyuyi@purdue.edu	5
+6Q0YS0F6	Delmiro Mahendran	dmahendr@purdue.edu	85
+QBHXR4PV	Zinetula Balck	zbalck@purdue.edu	51
+82AYZ4SU	Mopeli Tshabangu	mtshaban@purdue.edu	82
+IET5GFRB	Aissa Polukhin	apolukhi@purdue.edu	68
+H2QIQZGU	Idalmis Loon	iloon@purdue.edu	2
+UU9DLY3T	Theron Valmon	tvalmon@purdue.edu	65
+WT26VTF4	Armais Zarma	azarma@purdue.edu	35
+GGYKS2OW	Khodor Al-Najadah	kalnajad@purdue.edu	31
+7XFUQUAD	Smiljana Iraschko-Stolz	siraschk@purdue.edu	36
+IH29O4A3	Asenaca Easey	aeasey@purdue.edu	100
+3E3939V8	Matea Makihira	mmakihir@purdue.edu	17
+TGAFTVSW	Sermbhan Hands	shands@purdue.edu	23
+E9E6X2TQ	Katia Mittakis	kmittaki@purdue.edu	87
+5USK5E72	Elen Getreuer	egetreue@purdue.edu	72
+F16S4H7N	Arleta Mulema	amulema@purdue.edu	68
+6L6AHBJ2	Carl-Gustaf Kocot	ckocot@purdue.edu	62
+3GWBR7L6	Eladio Hoszek	ehoszek@purdue.edu	37
+60H4NN50	Hazel-Ann Nteso	hnteso@purdue.edu	77
+KTOLDTE6	Courder El-Lebedy	cellebed@purdue.edu	70
+MM54BZIH	Gift Eastcott	geastcot@purdue.edu	97
+Z0G9IIDR	Atef Pinzani	apinzani@purdue.edu	26
+55O3G8NO	Preya ugi	pugi@purdue.edu	8
+CZX4PC9O	Teray Grundstrm	tgrundst@purdue.edu	86
+6XS78UCG	Janine Marincheshki	jmarinch@purdue.edu	57
+embark-authentic	2
+overstay-liable	2
+blame-napped	2
+annually-rimless	1
+nectar-static	2
+grain-coyness	3
+lyricism-alkalize	3
+hanky-postbox	1
+desolate-fiction	1
+ranged-opossum	2
+yeah-surplus	2
+heritage-twelve	2
+zoology-monologue	3
+sensitize-shiny	2
+uncounted-sacred	1
+suburb-uniformed	2
+angular-mule	2
+rift-pleat	2
+wildfowl-cranberry	2
+passcode-stability	4
+outflank-unheated	1
+plutonium-punch	3
+sixth-skies	3
+kitten-cozily	4
+ashes-ammonia	2
+routine-kick	3
+gradually-yen	1
+saved-stoplight	3
+abacus-dirtiness	3
+modified-storable	2
+hypnotist-sinister	3
+unvarying-anyway	4
+imposing-judge	1
+trimming-revolt	2
+excess-definite	2
+creature-compactly	1
+sesame-impale	1
+ergonomic-upwind	2
+magician-seducing	1
+ladylike-mortified	2
+grunt-sizzling	3
+dinginess-manhandle	2
+maggot-pulse	1
+guise-stopped	2
+playoff-stock	2
+1	spearmint-placate-friday	69ZDUPIG	1735689600	3000
+2	growl-marbling-cabbage	VH6NTC1B	1735689600	4200
+3	unranked-blinked-why	4V62D2TL	1735689600	1200
+4	connected-harmful-concur	DP2KX15F	1735689600	600
+5	cornstalk-landside-headroom	H2QIQZGU	1735689600	2400
+6	yahoo-festivity-ninth	KGQJR4VV	1735689600	4800
+7	subject-unguarded-mulberry	69ZDUPIG	1735689600	14400
+8	thrill-paver-scorer	I0E8N4M9	1735689600	600
+9	cubicle-stroller-mauve	WT26VTF4	1735689600	24600
+10	uncertain-sculptor-rare	7QZK8B7P	1735689602	1200
+11	astound-savanna-periscope	SXE8BOKX	1735689603	4800
+12	scorpion-legged-front	X6M1C90O	1735689605	12000
+13	mower-phrasing-importer	M6SSB8MU	1735689605	600
+14	amigo-props-modulator	UU9DLY3T	1735689605	1800
+15	gravel-mace-ether	8UPQJTN5	1735689605	1200
+16	tasting-rehab-anyway	ZUTJWL2L	1735689606	1200
+17	clutter-arrest-vastness	QXKWFRVU	1735689607	3600
+18	disabled-stylishly-radiator	O2MYFV6X	1735689607	600
+19	skied-preflight-stoke	FIUNH5PB	1735689609	13200
+20	constrict-net-hexagram	I0E8N4M9	1735689610	10800
+21	gigantic-proxy-shy	BEWGZVJ5	1735689610	6600
+22	manger-county-repeal	60H4NN50	1735689611	2400
+23	frugality-consonant-chest	U9384VZY	1735689611	600
+24	badland-octane-undocked	J5G4IAES	1735689611	7800
+25	magnesium-dilation-smasher	6Q0YS0F6	1735689611	6000
+26	mop-safari-parabola	EHMHZ5NL	1735689613	8400
+27	bagginess-overtime-overbill	PRXF2FE9	1735689613	2400
+28	ducktail-atlantic-cycling	U9384VZY	1735689613	11400
+29	evasion-prelude-waged	2Q6ZIEQH	1735689615	2400
+30	pouch-dean-grove	KL0M8HH8	1735689615	19200
+31	squealer-circular-praying	0XGCCWPM	1735689615	1800
+32	doubling-dollar-circular	7898SPHT	1735689615	2400
+33	difficult-uranium-zoologist	GGYKS2OW	1735689617	6600
+34	shield-strangle-fled	Q5YY92DB	1735689617	600
+35	reassure-superjet-dissuade	9CCWQ6YW	1735689619	13200
+36	prayer-rephrase-supervise	8YAXHC90	1735689619	1800
+37	undrafted-chummy-thrift	72DA8ONJ	1735689619	3600
+38	deploy-unsent-unfrozen	YE9DCKSH	1735689619	4800
+39	scuttle-coexist-passport	2Y4HARB5	1735689619	2400
+40	snowy-imprint-choosy	BFKIPHHG	1735689621	7800
+41	cadillac-monopoly-barracuda	G6SVYQ31	1735689622	2400
+42	repeated-zipfile-spinal	WFS3WHFM	1735689623	4200
+43	shove-overdue-armrest	MT7YY4EX	1735689623	1200
+44	proposal-zesty-carve	IH29O4A3	1735689623	16800
+45	neurotic-pastel-generic	O2MYFV6X	1735689623	4200
+46	morbidity-jaws-scrawny	QBHXR4PV	1735689623	20400
+47	reappear-labrador-scenic	5USK5E72	1735689623	13200
+48	nurture-kitchen-mulled	0P54I4KU	1735689624	600
+49	unlocked-affected-laxative	43UA201X	1735689625	3600
+50	runway-provoke-stellar	XFNSRF8E	1735689625	10800
+51	prevent-jester-showroom	2KKMSQ9L	1735689625	3600
+52	stimulate-slit-surreal	C9XIVE21	1735689625	9000
+53	spinner-cubbyhole-writing	RQIY9M21	1735689625	4200
+54	revoke-hunger-hatchback	CNRW6XB0	1735689626	1800
+55	scrubber-blazer-activate	X6M1C90O	1735689626	14400
+56	dating-broadness-buzz	EHVDTZ1Z	1735689626	3600
+57	clever-growing-oval	45ZYVQFU	1735689626	6600
+58	bullpen-situation-change	1L03GATT	1735689626	7200
+59	fender-scarring-directory	Z0G9IIDR	1735689626	4200
+60	secrecy-overall-drowsily	7QFQPBPU	1735689626	600
+61	pronto-reshape-emphatic	5USK5E72	1735689626	6000
+62	pope-snooper-gory	TGAFTVSW	1735689628	5400
+63	handoff-vividly-aflutter	WT26VTF4	1735689628	1800
+64	plural-affiliate-gleaming	FZ7VNHSF	1735689630	23400
+65	huskiness-manhole-kerosene	VLVUYGO5	1735689632	600
+66	dimmed-plaster-exorcism	MNMD9E53	1735689634	4200
+67	prolonged-result-impeding	BPEIFZSS	1735689634	4800
+68	uncork-catnap-jogging	8S9R5RSW	1735689634	16200
+69	skipper-dispatch-expose	1L03GATT	1735689634	7800
+70	subsidize-switch-shut	5USK5E72	1735689634	22200
+71	untainted-enjoyable-flying	3LVFY89P	1735689636	8400
+72	stadium-founder-headgear	ZU25J5YL	1735689636	15600
+73	thirstily-impotency-petri	60H4NN50	1735689636	7200
+74	footage-throwing-slingshot	Q5YY92DB	1735689637	600
+75	map-wrinkle-sublevel	RW3059GK	1735689638	7800
+76	level-vendor-matted	ODXNZ626	1735689638	1200
+77	automated-keenly-drudge	9BU8SISQ	1735689638	600
+78	flinch-landscape-collie	2X6263RB	1735689639	3000
+79	camcorder-clad-aggregate	BZLWXD0M	1735689639	600
+80	feed-stiffness-botanist	PRXF2FE9	1735689639	3600
+81	nimbly-viewpoint-flashing	PRXF2FE9	1735689640	5400
+82	moonstone-nanny-occupant	BRVD2W05	1735689642	600
+83	patronage-grunt-destitute	9QV0YF6R	1735689642	2400
+84	venture-extinct-oppose	D5ZZCTMK	1735689642	3600
+85	unbitten-apprehend-request	W14PMGTZ	1735689642	4800
+86	scrunch-wrongly-deniable	9BU8SISQ	1735689644	2400
+87	joyride-marina-vaguely	YQUP1L6A	1735689644	4200
+88	armadillo-arbitrate-mummify	CNRW6XB0	1735689645	17400
+89	everglade-heroics-uninjured	K5AZ2QYM	1735689645	2400
+90	earplugs-frigidity-tragedy	7XFUQUAD	1735689645	3000
+91	marsupial-legend-reabsorb	J5G4IAES	1735689647	1800
+92	trimester-porcupine-judicial	QBHXR4PV	1735689647	3600
+93	disaster-viscosity-drainable	M3COS3LU	1735689649	8400
+94	extent-uncaring-discern	KTOLDTE6	1735689649	8400
+95	chaste-multitude-upscale	OHRLB8DJ	1735689649	7800
+96	footnote-bagging-diabolic	BPEIFZSS	1735689649	24000
+97	ride-scotch-causation	D5ZZCTMK	1735689649	12600
+98	secluding-imperfect-ferret	W14PMGTZ	1735689649	11400
+99	surreal-prism-grandkid	45ZYVQFU	1735689649	15000
+100	animation-manhunt-barcode	OHRLB8DJ	1735689649	1800
+101	splotchy-canine-aflame	IBY5LAO0	1735689649	1200
+102	spearfish-rabid-sizzle	QCDPTX71	1735689651	600
+103	donor-rewire-aptly	K0YWPN97	1735689651	18600
+104	cartwheel-lazily-sneeze	EHMHZ5NL	1735689653	18000
+105	vividness-salvation-tried	Z535E7KM	1735689653	15000
+106	maturity-crisping-enjoying	JR4TF2QG	1735689653	27600
+107	scrimmage-slingshot-hankering	C9XIVE21	1735689653	18000
+108	afar-clobber-creatable	VH6NTC1B	1735689654	4800
+109	facsimile-harmonics-legroom	UF2F1AO1	1735689654	7800
+110	boaster-trident-impulse	S3MJCWS4	1735689655	5400
+111	boondocks-superbowl-pellet	WT26VTF4	1735689656	1200
+112	implosion-handler-tumble	MNMD9E53	1735689656	12600
+113	gangway-disperser-hybrid	CXK3J2PI	1735689656	13200
+114	cycle-latch-napped	FGXX47I7	1735689656	12600
+115	sublet-reaffirm-obsolete	3GWBR7L6	1735689656	1200
+116	pedometer-unsettled-usable	MNMD9E53	1735689656	7200
+117	stuffed-walnut-humongous	1L03GATT	1735689656	14400
+118	elite-spore-stipulate	ZLL4QHDH	1735689656	9600
+119	grief-angelfish-ventricle	75Z7VF4Z	1735689656	5400
+120	backboard-commodity-proofread	WFS3WHFM	1735689656	9600
+121	sliceable-grafted-secluding	QCDPTX71	1735689656	9000
+122	undertone-wrist-catchy	U9384VZY	1735689656	2400
+123	mobility-basket-refinance	Z0G9IIDR	1735689657	1200
+124	overprice-bonanza-overpay	CNW3SGFD	1735689657	6600
+125	coconut-anyway-confident	MT7YY4EX	1735689658	600
+126	parachute-sixtieth-arguably	O9OJQUG4	1735689658	1800
+127	squeeze-senorita-gyration	C9XIVE21	1735689658	600
+128	await-factsheet-urethane	3GBJLBRB	1735689658	1800
+129	scorebook-demotion-nebula	CU9BN5YK	1735689658	600
+130	washroom-pliable-silencer	UF2F1AO1	1735689658	11400
+131	tipped-delirium-stonewall	KL0M8HH8	1735689660	1800
+132	panhandle-makeshift-rebuilt	7898SPHT	1735689660	600
+133	rescuer-large-ridden	Q5YY92DB	1735689660	1800
+134	crudely-liquefy-footwear	2Q6ZIEQH	1735689662	7800
+135	hassle-shudder-spooky	8S9R5RSW	1735689663	2400
+136	said-vaporizer-angelic	2DAG0Z5G	1735689663	3000
+137	sample-olympics-audio	OHRLB8DJ	1735689663	5400
+138	undead-comply-psychic	A4NEND5B	1735689664	2400
+139	gizmo-riveting-antitrust	7QZK8B7P	1735689664	5400
+140	husked-studio-overact	8YAXHC90	1735689664	3600
+141	drained-cogwheel-tummy	M3COS3LU	1735689664	6000
+142	enlarging-tingling-tubeless	TDWIHLS9	1735689664	8400
+143	lukewarm-unwrapped-defendant	TGAFTVSW	1735689666	3600
+144	maternal-bundle-disobey	BZLWXD0M	1735689667	2400
+145	unwomanly-lullaby-amino	SXE8BOKX	1735689667	3000
+146	cope-canola-ecard	I0E8N4M9	1735689667	7800
+147	street-envious-penalize	55O3G8NO	1735689667	18600
+148	uproot-automatic-rage	SXDZT9GO	1735689667	9600
+149	cost-populate-dash	3GBJLBRB	1735689667	6000
+150	grasp-staging-same	9BU8SISQ	1735689667	25800
+151	chimp-tiring-depraved	YQUP1L6A	1735689667	600
+152	composite-hasty-magnitude	0T341347	1735689667	13200
+153	decline-retrace-revolver	USAOGJ6C	1735689669	8400
+154	machinist-routing-afternoon	8U70VKHY	1735689670	18000
+155	swinging-slashing-research	WOLOXMEB	1735689670	7200
+156	bully-amply-cloud	7QFQPBPU	1735689670	600
+157	overlabor-cofounder-spinner	DP2KX15F	1735689671	600
+158	popcorn-mourner-daily	8YAXHC90	1735689671	3600
+159	fidgety-reprise-useable	82AYZ4SU	1735689673	18000
+160	lather-spectator-rewrap	OAO076MN	1735689673	2400
+161	quicken-outfit-scrambled	ZU25J5YL	1735689675	2400
+162	garnet-widen-embroider	FGXX47I7	1735689675	2400
+163	uncurious-detail-footpath	69ZDUPIG	1735689675	9600
+164	cesspool-catcall-viral	UU9DLY3T	1735689675	11400
+165	outscore-quilt-capillary	K5AZ2QYM	1735689675	1800
+166	each-cinnamon-amusing	LXCC65CY	1735689676	1200
+167	tubular-recount-many	55HQLWF2	1735689676	4800
+168	darkness-distinct-siberian	GCPW5S55	1735689676	10200
+169	fondly-felttip-alumni	RNLC70G9	1735689676	8400
+170	backstab-region-outcome	7898SPHT	1735689676	2400
+171	spree-untitled-genre	V1RXBYKO	1735689677	4200
+172	clatter-scam-donut	GR8SG1ZY	1735689677	21000
+173	repayment-geriatric-bloating	PRXF2FE9	1735689677	3600
+174	swinger-antibody-trading	WOLOXMEB	1735689679	13800
+175	runner-thickness-parakeet	YK9KXGBD	1735689680	1800
+176	overexert-sketch-sedan	DANCIP27	1735689681	1200
+177	sevenfold-proximity-gala	X6M1C90O	1735689681	600
+178	idealist-stimulant-striking	WFS3WHFM	1735689681	3000
+179	empty-monologue-dropbox	HFWKSRSC	1735689683	1800
+180	wisdom-simile-blinker	EHMHZ5NL	1735689683	4800
+181	excusable-quickly-humorist	MT7YY4EX	1735689683	9000
+182	mumbo-dreamless-herring	DANCIP27	1735689683	6600
+183	swarm-usable-penknife	9CCWQ6YW	1735689684	1200
+184	semifinal-lifting-surely	DPLUALV4	1735689684	10200
+185	sequester-sneer-remodeler	EQK6Q6KT	1735689685	9000
+186	capricorn-couch-granola	3E3939V8	1735689685	27600
+187	written-neglector-cataract	FIUNH5PB	1735689685	1200
+188	asparagus-sprig-freeing	DP2KX15F	1735689685	600
+189	pedicure-coherence-flattop	9CCWQ6YW	1735689686	6600
+190	overjoyed-sphinx-ride	VCN09KWY	1735689686	3600
+191	strongman-smitten-prong	FIUNH5PB	1735689686	10200
+192	slapping-thimble-armless	4V62D2TL	1735689686	2400
+193	nastily-font-ambiguous	7898SPHT	1735689686	7800
+194	moaning-undertow-elusive	FGXX47I7	1735689686	5400
+195	spoilage-vantage-saved	UF2F1AO1	1735689687	4200
+196	defective-idly-hash	K5AZ2QYM	1735689687	3000
+197	educated-foothill-wise	ZU25J5YL	1735689689	1800
+198	panning-untracked-ergonomic	7QFQPBPU	1735689689	14400
+199	saucy-elves-dictate	FIUNH5PB	1735689689	3600
+200	exorcist-corporate-chaffing	XFNSRF8E	1735689689	9600

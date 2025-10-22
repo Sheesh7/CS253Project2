@@ -1,0 +1,9 @@
+2 2 4
+u1	Alice Chen	alice@purdue.edu	50
+u2	Bob Diaz	bob@purdue.edu	10
+alpha	1
+beta	2
+101	Matrix Multiply	u1	1730000000	30
+102	Quick Test	u2	1730000010	10
+103	Long Analysis	u2	1730000010	20
+104	Short Exp	u1	1730000020	6

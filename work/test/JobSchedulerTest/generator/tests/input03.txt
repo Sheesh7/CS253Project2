@@ -1,0 +1,176 @@
+100 25 50
+MIXT4EMV	Svend Karalogos	skaralog@purdue.edu	60
+NV1RPRF9	Win Rademacher	wrademac@purdue.edu	70
+UKH9LAHX	Peera Baroni	pbaroni@purdue.edu	45
+EXJOM6OR	Lailin Kulinchenko	lkulinch@purdue.edu	9
+O8TEYANY	Jennifer-Kirsten Allotey	jallotey@purdue.edu	45
+YK9IWGXB	Bengt-ke Dose	bdose@purdue.edu	95
+MFF69KC0	Kohei Al-Menaifi	kalmenai@purdue.edu	70
+TI921XHU	Kauiza Millington	kmilling@purdue.edu	30
+5C1B8955	Trlan Pekkala	tpekkala@purdue.edu	34
+4J9P6XQA	Kire Covaliu	kcovaliu@purdue.edu	72
+LGIAX8TU	Diguan Jeong-Ah	djeongah@purdue.edu	59
+VFD38LAD	Delfin Merjan	dmerjan@purdue.edu	15
+6P1WK33H	Shirish Patten	spatten@purdue.edu	15
+DSWZ9AAH	Irene Farmand	ifarmand@purdue.edu	100
+NVVOBND2	Burdette Horgen	bhorgen@purdue.edu	32
+QL2D2MS2	Lies Petrikovics	lpetriko@purdue.edu	39
+VY8HZ1RR	Liezel Desruelles	ldesruel@purdue.edu	57
+Z9EJRTWU	Nabiollah Kevi	nkevi@purdue.edu	16
+2182UYXC	Ingvard Meulebroeck	imeulebr@purdue.edu	44
+DAWUO20P	Petko Bersin	pbersin@purdue.edu	30
+PMDV9X6W	Ole-Kristian Tenadze	otenadze@purdue.edu	15
+BR0M1VBZ	Haykel Yardley	hyardley@purdue.edu	95
+KYV8IKI8	Nasr Chaney	nchaney@purdue.edu	54
+8T4LPJFE	Abderrazak Hatherly	ahatherl@purdue.edu	83
+4VQ4XTNC	Hortensio Dudarev	hdudarev@purdue.edu	85
+LNU14BGS	Vclav Malavisi	vmalavis@purdue.edu	46
+3WG6YRDQ	Merja Diering	mdiering@purdue.edu	69
+UUFNV6TJ	Casiano Althin	calthin@purdue.edu	34
+PCZ0EBZP	Linn-Kristin Daz	ldaz@purdue.edu	85
+38KPXD81	Darcie Tago	dtago@purdue.edu	45
+Y8675PS5	Subhash Darnyi	sdarnyi@purdue.edu	76
+CSZNMEML	Udomsak Salo	usalo@purdue.edu	89
+LFUDD2CZ	Gtrik Dumortier	gdumorti@purdue.edu	75
+TI9QR086	Sunil Radideau	sradidea@purdue.edu	24
+9W0LHU7O	Tang Bedasso	tbedasso@purdue.edu	94
+KI78YXYI	Abby Tullius	atullius@purdue.edu	23
+LL9HNSKE	Anwar Wohlers	awohlers@purdue.edu	48
+F8S0AFXB	Mirian Grodzicki	mgrodzic@purdue.edu	24
+GIMS4M94	Joanell Tochenaya	jtochena@purdue.edu	16
+GEK7FSAB	Slobodan Mill	smill@purdue.edu	81
+C7VWBUDK	Yelyzaveta Rhodes	yrhodes@purdue.edu	6
+JW3BRJRK	Josip Ketterer	jkettere@purdue.edu	84
+8MGTPB6Z	Chaouki Lergetporer	clergetp@purdue.edu	14
+IU40LDYZ	Rudolfs Sheerer	rsheerer@purdue.edu	40
+W1S9GAFV	Tran Janssen	tjanssen@purdue.edu	62
+QJ43HOQV	Juciely Slgeanu	jslgeanu@purdue.edu	64
+DZ3US6K2	Clovis Ekins	cekins@purdue.edu	17
+MRIQ14AG	Eija Pachel	epachel@purdue.edu	62
+P3ZA2P88	Elias Smyth	esmyth@purdue.edu	75
+37U0QAJG	Fahmi Al-Fardan	falfarda@purdue.edu	71
+9HDGMCG4	Emanuele Shinomaki	eshinoma@purdue.edu	17
+165TY31V	Camillo Houtsch	choutsch@purdue.edu	42
+ECST4JWL	Edvaldo Benediktsson	ebenedik@purdue.edu	61
+KT44KAXD	Temba Aarrass	taarrass@purdue.edu	6
+MFGCZB9T	Unn Boissire	uboissir@purdue.edu	66
+IL43TT9V	Moez Obee	mobee@purdue.edu	64
+M60ZWZD1	Liew Yach	lyach@purdue.edu	12
+VXPTEDDC	Oveyss Shao-Chieh	oshaochi@purdue.edu	10
+SPX9VGT9	Holley Kenmotsu	hkenmots@purdue.edu	9
+7TVQNAUJ	Ninel Diniz	ndiniz@purdue.edu	49
+FK8HHJPC	Maui Bentham	mbentham@purdue.edu	81
+YYQIFZTB	Ellina Hoog	ehoog@purdue.edu	50
+XZU98V9F	Ben Vigna	bvigna@purdue.edu	67
+0OOUPXMY	Mazar Valkenburgh	mvalkenb@purdue.edu	45
+QQOYQ8EV	Jochem Podstawski	jpodstaw@purdue.edu	75
+O19HYWLW	Oswald Gudashvili	ogudashv@purdue.edu	49
+LOQ25LK9	Archie Mikhaylova	amikhayl@purdue.edu	33
+WA4KRN0Q	Vernhar Kallenou	vkalleno@purdue.edu	70
+I3HN04SP	Ami Bruchet	abruchet@purdue.edu	18
+WWXV2EF2	Offiong Nourry	onourry@purdue.edu	40
+CLIPR7CU	Galsangiin Cornacchia	gcornacc@purdue.edu	71
+JY7OO865	Kelly-Anne Bakhvalova	kbakhval@purdue.edu	25
+J8NILYC3	Odile Prianyshnikov	oprianys@purdue.edu	6
+A5Q7SV3I	Dimitrije Madzokere	dmadzoke@purdue.edu	85
+5VW474UX	Radoje Janukeviit	rjanukev@purdue.edu	82
+TU9GN11R	Jolto Wiedersporn	jwieders@purdue.edu	43
+P6INIDJ6	Yelkan Lester	ylester@purdue.edu	32
+0QO9GHX2	Yurisandy Fituma	yfituma@purdue.edu	60
+W2XN5F28	Asanosuke Meik	ameik@purdue.edu	31
+U5S2R8LI	Bettremieux Zhrobsk-Strachov	bzhrobsk@purdue.edu	46
+F3WVJ0IX	Glucia Schmidt-Neuber	gschmidt@purdue.edu	32
+574JAACT	Rogel Ebina	rebina@purdue.edu	95
+FC72T4VI	Emmanouela Cerquera	ecerquer@purdue.edu	35
+0VWIA7DN	Saltirka Tomlins	stomlins@purdue.edu	53
+PIW81KTV	Raffaele Hovhannisyan	rhovhann@purdue.edu	16
+FVFFVX1B	Muenetanda vabinsk	mvabinsk@purdue.edu	74
+5HODCR4Q	Xavier Thommes	xthommes@purdue.edu	87
+MZJCC4P0	Kyriaki Rudeanu	krudeanu@purdue.edu	71
+8DPSVJXS	Hawar Obwoge	hobwoge@purdue.edu	97
+UH73KV9Z	Fernande Schrimsher	fschrims@purdue.edu	94
+RO6LG3Q9	Rente Vygoda	rvygoda@purdue.edu	20
+7W4NRU67	Tauno Sidov	tsidov@purdue.edu	10
+ORWJS591	Kenias Shakimova	kshakimo@purdue.edu	23
+EP4503XK	Sipho Bokai	sbokai@purdue.edu	45
+R7JNYJ4F	Elly Gerasimou	egerasim@purdue.edu	82
+3NFYO3TY	Jader Sidib	jsidib@purdue.edu	30
+0BUOKQ1V	Regula Leskinen	rleskine@purdue.edu	74
+DA3UOPQP	Galymzhan Nyblaeus	gnyblaeu@purdue.edu	13
+2OBISYNB	Abderzak Halvari	ahalvari@purdue.edu	97
+M7IGCCW1	Axel-Herman Bombach	abombach@purdue.edu	61
+deserving-unsure	2
+cubicle-refining	1
+coherent-duckling	1
+shifting-panhandle	2
+happiness-resupply	2
+harpist-faculty	2
+pacifier-heading	2
+removable-express	2
+ungraded-require	2
+unaired-commuting	3
+whomever-shower	3
+pediatric-coach	1
+underage-retiring	2
+robbing-fruit	1
+unwilling-kissable	2
+overlook-handmade	2
+punctual-fever	2
+extent-cannot	1
+wipe-extrovert	4
+huddle-anchovy	1
+dynamic-reissue	2
+porcupine-unknown	3
+reviving-moonbeam	2
+grievance-customize	3
+blandness-curtly	2
+1	wasting-mutation-blatantly	SPX9VGT9	1735689600	12600
+2	footbath-outcast-dainty	574JAACT	1735689601	3600
+3	trial-xbox-zoologist	0BUOKQ1V	1735689601	12600
+4	uselessly-cathouse-hypocrisy	VFD38LAD	1735689601	2400
+5	preplan-spirited-magnify	2182UYXC	1735689602	22200
+6	shabby-devotee-earthworm	WA4KRN0Q	1735689602	600
+7	epic-boondocks-promenade	QQOYQ8EV	1735689603	600
+8	prude-deskwork-client	VFD38LAD	1735689603	9000
+9	tribunal-showroom-rebound	P6INIDJ6	1735689603	1800
+10	posture-simple-onslaught	37U0QAJG	1735689603	10200
+11	parting-case-clad	M7IGCCW1	1735689603	3000
+12	creatable-caramel-carve	Y8675PS5	1735689603	6000
+13	produce-portside-unframed	A5Q7SV3I	1735689604	3600
+14	yarn-static-polio	UKH9LAHX	1735689605	600
+15	moving-uncured-plenty	W2XN5F28	1735689605	2400
+16	police-speculate-survey	9HDGMCG4	1735689605	7200
+17	spry-craving-degrease	UH73KV9Z	1735689605	12600
+18	handwoven-composure-judo	PCZ0EBZP	1735689605	3000
+19	catnip-anemic-darn	ORWJS591	1735689606	600
+20	wildlife-undercut-scooter	J8NILYC3	1735689606	600
+21	duct-applicant-hemlock	KYV8IKI8	1735689607	1200
+22	railing-clinic-credible	MZJCC4P0	1735689607	13200
+23	wow-sloped-dagger	5HODCR4Q	1735689607	3600
+24	friday-rockiness-trading	R7JNYJ4F	1735689607	6600
+25	avalanche-preshow-decimeter	MFF69KC0	1735689607	5400
+26	blizzard-cassette-upstage	DZ3US6K2	1735689607	5400
+27	uncaring-plank-composed	UUFNV6TJ	1735689607	4800
+28	cone-payday-tackiness	EP4503XK	1735689607	6000
+29	affection-spearfish-framing	6P1WK33H	1735689607	8400
+30	reflex-hurry-happiness	YYQIFZTB	1735689608	3600
+31	distaste-rimless-outlet	W1S9GAFV	1735689609	3000
+32	undated-wok-recoil	LGIAX8TU	1735689609	7800
+33	voltage-boney-unsliced	KI78YXYI	1735689609	3000
+34	kinswoman-entering-roulette	YYQIFZTB	1735689610	1200
+35	anatomist-pretended-presoak	FK8HHJPC	1735689610	10800
+36	turkey-squiggle-showman	UKH9LAHX	1735689610	8400
+37	mangle-unneeded-shaded	IU40LDYZ	1735689610	5400
+38	unfrosted-unlearned-unranked	U5S2R8LI	1735689610	12600
+39	vaseline-exes-wrecker	QL2D2MS2	1735689610	600
+40	parasite-unsworn-eating	NVVOBND2	1735689610	7800
+41	oversweet-smugly-armful	FK8HHJPC	1735689610	9600
+42	component-engulf-imprudent	3NFYO3TY	1735689611	1800
+43	rickety-deprecate-overheat	O8TEYANY	1735689611	1200
+44	enticing-unbuckled-headsman	8DPSVJXS	1735689611	3600
+45	ranting-chance-detest	WWXV2EF2	1735689611	3000
+46	headband-magnify-docile	JY7OO865	1735689611	15600
+47	attention-external-prowess	JW3BRJRK	1735689611	1800
+48	lilac-overdress-send	W2XN5F28	1735689611	9600
+49	radiantly-gloss-stoneware	EP4503XK	1735689611	7200
+50	five-browsing-antarctic	GIMS4M94	1735689611	3000
