@@ -99,36 +99,30 @@ public class CSJobScheduler implements CSJobSchedulerInterface {
             System.exit(1);
         }
 
-        for (int i =1; i < jobList.size(); i++) {
-            FinishedJob<?,?,?> key = jobList.get(i);
-            int j = i - 1;
-            while (j >= 0 && (jobList.get(j).job.getSubmissionTime() > key.job.getSubmissionTime() || (jobList.get(j).job.getSubmissionTime() == key.job.getSubmissionTime() && jobList.get(j).compareTo(key) > 0))) {
-                jobList.set(j + 1, jobList.get(j));
-                j--;
-                jobList.set(j + 1, key);
+        int index = 0;
+        while (index < jobList.size()) {
+            int curSubTime = jobList.get(index).job.getSubmissionTime();
+            MinHeap<FinishedJob<?,?,?>> jobHeap = new MinHeap<>();
+            while (index < jobList.size() && jobList.get(index).job.getSubmissionTime() == curSubTime) {
+                jobHeap.add(jobList.get(index));
+                index++;
+            }
+            while (jobHeap.size() > 0) {
+                FinishedJob<?,?,?> unfinished = jobHeap.removeMin();
+                Job job = unfinished.job;
+                User user = unfinished.user;
+                Machine machine = machineHeap.removeMin();
+                int startTime = Math.max(job.getSubmissionTime(), machine.getFinishingTime());
+                int runTime = (int) Math.ceil((double) job.getRunningTime() / machine.getSpeed());
+                int compTime = startTime + runTime;
+                machine.setFinishingTime(compTime);
+                machineHeap.add(machine);
+                FinishedJob<?,?,?> finished = new FinishedJob<>(user, machine, job, startTime, compTime);
+                list.add(finished);
+
             }
         }
-        for (FinishedJob<?,?,?> unfinished : jobList) {
-            Job job = unfinished.job;
-            User user = unfinished.user;
-            Machine machine = machineHeap.removeMin();
-            int startTime = Math.max(job.getSubmissionTime(), machine.getFinishingTime());
-            int runTime = (int) Math.ceil((double) job.getRunningTime() / machine.getSpeed());
-            int compTime = startTime + runTime;
-            machine.setFinishingTime(compTime);
-            machineHeap.add(machine);
-            FinishedJob<?,?,?> finished = new FinishedJob<>(user,machine, job, startTime, compTime);
-            list.add(finished);
-        }
-        for (int  i = 1; i <list.size(); i++) {
-            FinishedJob<?,?,?> key = list.get(i);
-            int j = i - 1;
-            while (j >= 0 && list.get(j).completionTime > key.completionTime) {
-                list.set(j + 1, list.get(j));
-                j--;
-            }
-            list.set(j + 1, key);
-        }
+        list.sort((a,b) -> Integer.compare(a.completionTime, b.completionTime));
         return list;
     }
     private int convertToSecs(String time) {
