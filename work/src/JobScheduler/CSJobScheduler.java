@@ -11,18 +11,18 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 /**
- * Manages everything regarding the Job Scheduling on the new CS Computing Cluster.
+ * Manages everything regarding the Job Scheduling on the new CS Computing
+ * Cluster.
  */
 public class CSJobScheduler implements CSJobSchedulerInterface {
-
 
     public ArrayList<FinishedJob<?, ?, ?>> getCompletionTimes(String filename) {
         ArrayList<FinishedJob<?, ?, ?>> list = new ArrayList<>();
         BetterHashTable<String, User> userTable = new BetterHashTable<>();
         BetterHashTable<String, Machine> machineTable = new BetterHashTable<>();
         MinHeap<Machine> machineHeap = new MinHeap<>();
-        ArrayList<FinishedJob<?,?,?>> jobList = new ArrayList<>();
-    
+        ArrayList<FinishedJob<?, ?, ?>> jobList = new ArrayList<>();
+
         try {
             BufferedReader bf = new BufferedReader(new FileReader(filename));
             String line = bf.readLine();
@@ -33,7 +33,7 @@ public class CSJobScheduler implements CSJobSchedulerInterface {
             int U = Integer.parseInt(first[0]);
             int M = Integer.parseInt(first[1]);
             int N = Integer.parseInt(first[2]);
-            
+
             for (int i = 0; i < U; i++) {
                 line = bf.readLine();
                 String[] parts = line.split("\t");
@@ -52,7 +52,7 @@ public class CSJobScheduler implements CSJobSchedulerInterface {
                 userTable.insert(userID, user);
             }
 
-            for (int i = 0; i < M; i++){
+            for (int i = 0; i < M; i++) {
                 line = bf.readLine();
                 String[] parts = line.split("\t");
                 int speed = Integer.parseInt(parts[parts.length - 1]);
@@ -68,8 +68,6 @@ public class CSJobScheduler implements CSJobSchedulerInterface {
                 machineTable.insert(name, machine);
                 machineHeap.add(machine);
             }
-            
-            
 
             for (int i = 0; i < N; i++) {
                 line = bf.readLine();
@@ -86,45 +84,39 @@ public class CSJobScheduler implements CSJobSchedulerInterface {
                 String userID = parts[parts.length - 3];
                 int subTime = Integer.parseInt(parts[parts.length - 2]);
                 int runTime = convertToSecs(parts[parts.length - 1]);
-                Job job = new Job(jobID, name, userID,subTime,runTime);
-                User user  = userTable.get(userID);
-                FinishedJob<?,?,?> unfinished = new FinishedJob<>(user, null, job);
-                jobList.add(unfinished);  
+                Job job = new Job(jobID, name, userID, subTime, runTime);
+                User user = userTable.get(userID);
+                FinishedJob<?, ?, ?> unfinished = new FinishedJob<>(user, null, job);
+                jobList.add(unfinished);
             }
-            
 
         } catch (IOException e) {
-            //This should never happen... uh oh o.o
+            // This should never happen... uh oh o.o
             System.err.println("ATTENTION TAs: Couldn't find test file: \"" + filename + "\":: " + e.getMessage());
             System.exit(1);
         }
 
-        int index = 0;
-        while (index < jobList.size()) {
-            int curSubTime = jobList.get(index).job.getSubmissionTime();
-            MinHeap<FinishedJob<?,?,?>> jobHeap = new MinHeap<>();
-            while (index < jobList.size() && jobList.get(index).job.getSubmissionTime() == curSubTime) {
-                jobHeap.add(jobList.get(index));
-                index++;
-            }
-            while (jobHeap.size() > 0) {
-                FinishedJob<?,?,?> unfinished = jobHeap.removeMin();
-                Job job = unfinished.job;
-                User user = unfinished.user;
-                Machine machine = machineHeap.removeMin();
-                int startTime = Math.max(job.getSubmissionTime(), machine.getFinishingTime());
-                int runTime = (int) Math.ceil((double) job.getRunningTime() / machine.getSpeed());
-                int compTime = startTime + runTime;
-                machine.setFinishingTime(compTime);
-                machineHeap.add(machine);
-                FinishedJob<?,?,?> finished = new FinishedJob<>(user, machine, job, startTime, compTime);
-                list.add(finished);
+        // Process jobs in chronological order
+        jobList.sort((a, b) -> Integer.compare(a.job.getSubmissionTime(), b.job.getSubmissionTime()));
 
-            }
+        for (FinishedJob<?, ?, ?> unfinished : jobList) {
+            Job job = unfinished.job;
+            User user = unfinished.user;
+            Machine machine = machineHeap.removeMin();
+            int startTime = Math.max(job.getSubmissionTime(), machine.getFinishingTime());
+            int runTime = (int) Math.ceil((double) job.getRunningTime() / machine.getSpeed());
+            int compTime = startTime + runTime;
+            machine.setFinishingTime(compTime);
+            machineHeap.add(machine);
+            FinishedJob<?, ?, ?> finished = new FinishedJob<>(user, machine, job, startTime, compTime);
+            list.add(finished);
         }
-        list.sort((a,b) -> Integer.compare(a.completionTime, b.completionTime));
+
+        // Sort by completion time for output
+        list.sort((a, b) -> Integer.compare(a.completionTime, b.completionTime));
         return list;
     }
+
     private int convertToSecs(String time) {
         String[] parts = time.split(":");
         if (parts.length == 1) {

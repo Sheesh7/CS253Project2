@@ -10,16 +10,22 @@ import java.util.ArrayList;
 import java.util.Objects;
 
 /**
- * Interface for the CS Job Scheduler. The implementing class should follow the specifications
- *   listed in the project description ("Project 2").  You may NOT use any Stack/Queue/priority queue/hash table
- *   objects or any similar objects or implementations from the Java standard libraries.
+ * Interface for the CS Job Scheduler. The implementing class should follow the
+ * specifications
+ * listed in the project description ("Project 2"). You may NOT use any
+ * Stack/Queue/priority queue/hash table
+ * objects or any similar objects or implementations from the Java standard
+ * libraries.
  *
- * <bold>253 students: you may use any of the data structures you have previously created, but may not use
- *   any Java library for stacks, queues, min heaps/priority queues, or hash tables (or any similar classes).</bold>
+ * <bold>253 students: you may use any of the data structures you have
+ * previously created, but may not use
+ * any Java library for stacks, queues, min heaps/priority queues, or hash
+ * tables (or any similar classes).</bold>
  */
 public interface CSJobSchedulerInterface {
     /**
      * Class used to store and retrieve job completion times
+     * 
      * @param <E> type of job we are dealing with
      */
     class FinishedJob<U extends User, M extends Machine, J extends Job> implements Comparable<FinishedJob<?, ?, ?>> {
@@ -36,7 +42,7 @@ public interface CSJobSchedulerInterface {
             this.completionTime = -1;
         }
 
-        //constructor with aptly-named fields
+        // constructor with aptly-named fields
         public FinishedJob(U u, M m, J j, int scheduledTime0, int completionTime0) {
             this.user = u;
             this.machine = m;
@@ -70,11 +76,13 @@ public interface CSJobSchedulerInterface {
             return this.job.getId() - other.job.getId();
         }
 
-        //default Intellij-generated equals function
+        // default Intellij-generated equals function
         @Override
         public boolean equals(Object o) {
-            if (this == o) return true;
-            if (o == null || getClass() != o.getClass()) return false;
+            if (this == o)
+                return true;
+            if (o == null || getClass() != o.getClass())
+                return false;
             FinishedJob<?, ?, ?> that = (FinishedJob<?, ?, ?>) o;
             return Objects.equals(user, that.user) && Objects.equals(machine, that.machine) &&
                     Objects.equals(job, that.job) && scheduledTime == that.scheduledTime &&
@@ -83,11 +91,13 @@ public interface CSJobSchedulerInterface {
 
         /**
          * To string method for printing
+         * 
          * @return string version of object
          */
         @Override
         public String toString() {
-            DateTimeFormatter formatter = DateTimeFormatter.ofPattern("MM/dd/yyyy HH:mm:ss").withZone(ZoneId.of("America/Indianapolis"));
+            DateTimeFormatter formatter = DateTimeFormatter.ofPattern("MM/dd/yyyy HH:mm:ss")
+                    .withZone(ZoneId.of("America/Indianapolis"));
             String sub = formatter.format(Instant.ofEpochSecond(job.getSubmissionTime()));
             String comp = formatter.format(Instant.ofEpochSecond(completionTime));
 
@@ -97,7 +107,8 @@ public interface CSJobSchedulerInterface {
             int sec = waitSecs % 60;
             String waitTime = String.format("%d:%02d:%02d", hours, min, sec);
 
-            return job.getId() +  "\t" + user.getName() + "\t" + user.getEmail() + "\t" + machine.getName() + "\t" + sub + "\t" + comp + "\t" + waitTime;
+            return job.getId() + "\t" + job.getName() + "\t" + user.getName() + "\t" + user.getEmail() + "\t"
+                    + machine.getName() + "\t" + sub + "\t" + comp + "\t " + waitTime;
         }
     }
 
