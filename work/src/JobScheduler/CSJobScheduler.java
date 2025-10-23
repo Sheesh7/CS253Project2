@@ -96,20 +96,40 @@ public class CSJobScheduler implements CSJobSchedulerInterface {
             System.exit(1);
         }
 
-        // Process jobs in chronological order
+        // Sort jobs by submission time to process them as they arrive
         jobList.sort((a, b) -> Integer.compare(a.job.getSubmissionTime(), b.job.getSubmissionTime()));
 
-        for (FinishedJob<?, ?, ?> unfinished : jobList) {
-            Job job = unfinished.job;
-            User user = unfinished.user;
-            Machine machine = machineHeap.removeMin();
-            int startTime = Math.max(job.getSubmissionTime(), machine.getFinishingTime());
-            int runTime = (int) Math.ceil((double) job.getRunningTime() / machine.getSpeed());
-            int compTime = startTime + runTime;
-            machine.setFinishingTime(compTime);
-            machineHeap.add(machine);
-            FinishedJob<?, ?, ?> finished = new FinishedJob<>(user, machine, job, startTime, compTime);
-            list.add(finished);
+        MinHeap<FinishedJob<?, ?, ?>> jobHeap = new MinHeap<>();
+        int currentTime = 0;
+        int jobIndex = 0;
+
+        while (jobIndex < jobList.size() || jobHeap.size() > 0) {
+            // Add all jobs that have arrived by current time to the job heap
+            while (jobIndex < jobList.size() && jobList.get(jobIndex).job.getSubmissionTime() <= currentTime) {
+                jobHeap.add(jobList.get(jobIndex));
+                jobIndex++;
+            }
+
+            // Process jobs if any are available
+            if (jobHeap.size() > 0) {
+                FinishedJob<?, ?, ?> unfinished = jobHeap.removeMin();
+                Job job = unfinished.job;
+                User user = unfinished.user;
+                Machine machine = machineHeap.removeMin();
+                int startTime = Math.max(job.getSubmissionTime(), machine.getFinishingTime());
+                int runTime = (int) Math.ceil((double) job.getRunningTime() / machine.getSpeed());
+                int compTime = startTime + runTime;
+                machine.setFinishingTime(compTime);
+                machineHeap.add(machine);
+                FinishedJob<?, ?, ?> finished = new FinishedJob<>(user, machine, job, startTime, compTime);
+                list.add(finished);
+
+                // Update current time to the completion time
+                currentTime = compTime;
+            } else if (jobIndex < jobList.size()) {
+                // No jobs available, advance time to next job submission
+                currentTime = jobList.get(jobIndex).job.getSubmissionTime();
+            }
         }
 
         // Sort by completion time for output

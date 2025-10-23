@@ -100,7 +100,6 @@ public interface CSJobSchedulerInterface {
                     .withZone(ZoneId.of("America/Indianapolis"));
             String sub = formatter.format(Instant.ofEpochSecond(job.getSubmissionTime()));
             String comp = formatter.format(Instant.ofEpochSecond(completionTime));
-
             int waitSecs = scheduledTime - job.getSubmissionTime();
             int hours = waitSecs / 3600;
             int min = (waitSecs % 3600) / 60;
